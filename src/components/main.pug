@@ -26,9 +26,9 @@
 							span(data-translate=`${half_first.text}`) #{half_first.text}
 
 					li#quarter-first.quarter
-						a(aria-label=`${quarter_first.text}`)
+						a(href=`${quarter_first.href}` aria-label=`${quarter_first.text}`)
 							i(class=`icon icon-${quarter_first.icon}`)
-							img(src=`${quarter_first.href}` height=`${quarter_first.height}` width=`${quarter_first.width}` alt=`${quarter_first.text}`)
+							span(data-translate=`${quarter_first.text}`) #{quarter_first.text}
 
 					li#quarter-second.quarter
 						a(href=`${quarter_second.href}` target="_blank" rel="noopener" aria-label=`${quarter_second.text}`)

@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
-		"description": "Author:SimonMa,Category:Personal Blog",
+		"title": "一个憨批阿毛",
+		"description": "Author:Hu Mh,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
+		"title": "Hu Mh",
+		"subtitle": "A Mao,it's me also",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "Hu Mh",
+		"signature": "Input & Output",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "80",
@@ -21,36 +21,34 @@
 		},
 		"ul": {
 			"whole_first": {
-				"href": "blog/",
-				"icon": "bokeyuan",
+				"href": "https://blog.humh.cn/",
+				"icon": "blog",
 				"text": "Blog"
 			},
 			"whole_second": {
 				"href": "about/",
-				"icon": "xiaolian",
+				"icon": "about",
 				"text": "About"
 			},
 			"half_first": {
-				"href": "mailto:simon@tomotoes.com",
-				"icon": "email",
-				"text": "Contact me"
+				"href": "https://blog.humh.cn/?p=471",
+				"icon": "guestbook",
+				"text": "Guestbook"
 			},
 			"quarter_first": {
-				"href": "assets/wechat.jpg",
-				"icon": "wechat",
-				"height": "95",
-				"width": "95",
-				"text": "Wechat"
+				"href": "mailto:coder_humh@aliyun.com",
+				"icon": "email",
+				"text": "Email"
 			},
 			"quarter_second": {
-				"href": "https://github.com/tomotoes",
-				"icon": "github",
-				"text": "Github"
+				"href": "https://blog.humh.cn/?cat=76",
+				"icon": "projects",
+				"text": "Projects"
 			},
 			"quarter_third": {
-				"href": "https://twitter.com/amSimonMa",
-				"icon": "twitter",
-				"text": "Twitter"
+				"href": "https://github.com/Jump-Boy",
+				"icon": "github",
+				"text": "Github"
 			},
 			"quarter_fourth": {
 				"href": "javascript:;",
