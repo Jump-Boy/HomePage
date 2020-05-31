@@ -39,4 +39,18 @@ if intro.background
 	script(src='js/background.js')
 
 if intro.supportAuthor
-	script(src="https://cdn.jsdelivr.net/gh/Tomotoes/js/log.min.js")
+	script(src="https://cdn.jsdelivr.net/gh/Jump-Boy/js/log.min.js")
+	
+script(type='text/javascript').
+	var _paq = window._paq || [];
+	/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+	_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+	_paq.push(['trackPageView']);
+	_paq.push(['enableLinkTracking']);
+	(function() {
+		var u="https://matomo.humh.cn/";
+		_paq.push(['setTrackerUrl', u+'matomo.php']);
+		_paq.push(['setSiteId', '2']);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	})();
