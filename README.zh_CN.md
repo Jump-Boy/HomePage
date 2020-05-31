@@ -1,5 +1,6 @@
 # Tomotoes-HomePage
 
+*该仓库为fork仓库，自定义了一些内容。关于原项目内容，请参考下方，最新情况请移步[这里](https://github.com/Tomotoes/HomePage)*
 
 [![支付宝赞助按钮](https://camo.githubusercontent.com/f4874996db5ac421925db08778d800d76d36abbc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545362539342541462545342542422539382545352541452539442d25453525393025393154412545362538442539302545352538412541392d677265656e2e737667)](https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/alipay.png)
 
